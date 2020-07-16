@@ -2,7 +2,7 @@
   "name": "calories",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Radhika-Saini.github.io/Calorie-Fusion",
+  "homepage": "http://Radhika-Saini.github.io/Calorie-Fusions",
   "dependencies": {
     "axios": "^0.18.0",
     "chart.js": "^2.8.0",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/calorie_fusion/static/css/main.9bdaa4ee.chunk.css",
-    "main.js": "/calorie_fusion/static/js/main.6f70902d.chunk.js",
-    "main.js.map": "/calorie_fusion/static/js/main.6f70902d.chunk.js.map",
-    "runtime~main.js": "/calorie_fusion/static/js/runtime~main.c560b989.js",
-    "runtime~main.js.map": "/calorie_fusion/static/js/runtime~main.c560b989.js.map",
-    "static/js/2.6dae5892.chunk.js": "/calorie_fusion/static/js/2.6dae5892.chunk.js",
-    "static/js/2.6dae5892.chunk.js.map": "/calorie_fusion/static/js/2.6dae5892.chunk.js.map",
-    "index.html": "/calorie_fusion/index.html",
-    "precache-manifest.62f2a0efd7a6e467e474e02871f83ed8.js": "/calorie_fusion/precache-manifest.62f2a0efd7a6e467e474e02871f83ed8.js",
-    "service-worker.js": "/calorie_fusion/service-worker.js",
-    "static/css/main.9bdaa4ee.chunk.css.map": "/calorie_fusion/static/css/main.9bdaa4ee.chunk.css.map",
-    "static/media/main.scss": "/calorie_fusion/static/media/welcome-food-min.9390aa10.jpg"
+    "main.css": "/calorie-app/static/css/main.9867c292.chunk.css",
+    "main.js": "/calorie-app/static/js/main.6f70902d.chunk.js",
+    "main.js.map": "/calorie-app/static/js/main.6f70902d.chunk.js.map",
+    "runtime~main.js": "/calorie-app/static/js/runtime~main.42ed6fd6.js",
+    "runtime~main.js.map": "/calorie-app/static/js/runtime~main.42ed6fd6.js.map",
+    "static/js/2.5d1fdd54.chunk.js": "/calorie-app/static/js/2.5d1fdd54.chunk.js",
+    "static/js/2.5d1fdd54.chunk.js.map": "/calorie-app/static/js/2.5d1fdd54.chunk.js.map",
+    "index.html": "/calorie-app/index.html",
+    "precache-manifest.9c9c636a29dc3ed0b4e8b997a8d25370.js": "/calorie-app/precache-manifest.9c9c636a29dc3ed0b4e8b997a8d25370.js",
+    "service-worker.js": "/calorie-app/service-worker.js",
+    "static/css/main.9867c292.chunk.css.map": "/calorie-app/static/css/main.9867c292.chunk.css.map",
+    "static/media/main.scss": "/calorie-app/static/media/welcome-food-min.9390aa10.jpg"
   }
 }

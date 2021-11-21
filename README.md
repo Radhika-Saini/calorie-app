@@ -7,7 +7,6 @@ Calculate your daily caloric and macro nutrient needs that fit whether you'd lik
 https://calorie-fusion.netlify.app
 
 ### To Start
-git clone https://github.com/skingz77/calories
 
 npm install
 
